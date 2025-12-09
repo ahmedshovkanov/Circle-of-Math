@@ -163,11 +163,13 @@ public class MainMechController : MonoBehaviour
     [ContextMenu("WinHandler")]
     private void WinHandler()
     {
-        GameStage = GameStage.Result;
+        //GameStage = GameStage.Result;
         WinWindow.gameObject.SetActive(true);
+        CurTargetCenterValue = UnityEngine.Random.Range(1, 15);
+        CentralTextRef.text = CurTargetCenterValue.ToString();
         GameFlowController.instance.AddCurency(0, 100);
         //ResetRelatedData();
-        InitNewSession();
+        StartCoroutine(NewRotationRoundHandler());
     }
 
     public void ReplayBtn()
