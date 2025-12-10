@@ -110,6 +110,6 @@ public class GameFlowController : MonoBehaviour
     
     public void PrivacyBtn()
     {
-        Application.OpenURL(PrivacyUrl);
+        SceneManager.LoadScene(2);
     }
 }
