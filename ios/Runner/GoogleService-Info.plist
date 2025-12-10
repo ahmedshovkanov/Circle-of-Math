@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyBakQ7h4IcGjC9fwiNvFfmXHkjmZBTHimo</string>
+	<string>AIzaSyCV8Xp1UsJJImr_wdbB4f-Kzkek2_xbpG4</string>
 	<key>GCM_SENDER_ID</key>
-	<string>94728548645</string>
+	<string>108881056954</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.toddhale.rabcoins</string>
+	<string>com.rivendel.circleofmath</string>
 	<key>PROJECT_ID</key>
-	<string>rabbits-coins</string>
+	<string>circle-of-math</string>
 	<key>STORAGE_BUCKET</key>
-	<string>rabbits-coins.firebasestorage.app</string>
+	<string>circle-of-math.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:94728548645:ios:75731348906a7f4e4deacc</string>
+	<string>1:108881056954:ios:15931ae97d1a77bf8dde83</string>
 </dict>
 </plist>

@@ -1,6 +1,4 @@
 import 'package:app_tracking_transparency/app_tracking_transparency.dart';
-import 'package:break_out_water_challenge/core/screens/no_internet_connection.dart';
-import 'package:break_out_water_challenge/core/screens/push_request_screen.dart';
 import 'package:break_out_water_challenge/core/screens/splash_screen.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:firebase_core/firebase_core.dart';

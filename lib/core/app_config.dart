@@ -8,7 +8,7 @@ class AppConfig {
   static const String locale = 'en'; // Для iOS'
   static const String os = 'iOS'; // Для iOS'
   static const String endpoint = 'https://circleofmath.com'; // Для iOS'
-  static const String firebaseProjectId = ''; // Для iOS'
+  static const String firebaseProjectId = 'circle-of-math'; // Для iOS'
 
 //UI Settings
 // Splash Screen
@@ -167,7 +167,7 @@ class AppConfig {
 
 // экран загрузки WebGL
   static String webGLEndpoint =
-      'https://play.unity.com/api/v1/games/game/1712c4c6-d525-479c-9aa7-303fbb78c940/build/latest/frame'; //'https://play.unity.com/en/games/1712c4c6-d525-479c-9aa7-303fbb78c940/robbies-coins';
+      'https://play.unity.com/api/v1/games/game/d5903747-7972-40c2-8d44-a737d658257f/build/latest/frame'; //'https://play.unity.com/en/games/1712c4c6-d525-479c-9aa7-303fbb78c940/robbies-coins';
 
   static const Decoration webGLLoadingDecoration = BoxDecoration(
     gradient: AppConfig.splashGradient,

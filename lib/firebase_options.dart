@@ -53,12 +53,12 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBakQ7h4IcGjC9fwiNvFfmXHkjmZBTHimo',
-    appId: '1:94728548645:ios:75731348906a7f4e4deacc',
-    messagingSenderId: '94728548645',
-    projectId: 'rabbits-coins',
-    storageBucket: 'rabbits-coins.firebasestorage.app',
-    iosBundleId: 'com.toddhale.rabcoins',
+    apiKey: 'AIzaSyCV8Xp1UsJJImr_wdbB4f-Kzkek2_xbpG4',
+    appId: '1:108881056954:ios:15931ae97d1a77bf8dde83',
+    messagingSenderId: '108881056954',
+    projectId: 'circle-of-math',
+    storageBucket: 'circle-of-math.firebasestorage.app',
+    iosBundleId: 'com.rivendel.circleofmath',
   );
 
 }
